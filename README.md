@@ -2,8 +2,8 @@
 
 # About Roshan The Social Network (in C++)
 # Input & Output
-  * ❌ Write out to the file
-  * ❌ Make Menu prettier and more structrual  
+     * ❌ Write out to the file
+     * ❌ Make Menu prettier and more structrual  
   
  # Admin menu
                 * ✅  A - Add a Person       
