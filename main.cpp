@@ -1,5 +1,5 @@
 //  main.cpp
-//  Roshan The SocialNetwork
+//  Roshan The Social Network
 //
 //  Created by Roshan Lamichhane
 //  Copyright (c) 2019 Roshan Lamichhane. All rights reserved.
