@@ -2,22 +2,19 @@
 
 # About Roshan The Social Network (in C++)
 # Input & Output
-  ❌ Write out to the file
-  ❌ Make Menu prettier and more structrual  
- *  ✅  Admin menu
-              ************** MENU ************
-                *                            *
-                * ✅  A - Add a Person       *
-                * ✅    D - Delete Person     *
-                * ✅    S - Search by Name    * 
-                * ✅    P - Print by Hash     *
-                * ✅   T - Print by Tree     *
-                * ✅   I - Print Indented    *
-                * ❌   W - Write to File     * 
-                * ❌   U - Usage Statistics  *
-                * ✅   L - Log Out           *
-                *                            *
-                ********************************
+  * ❌ Write out to the file
+  * ❌ Make Menu prettier and more structrual  
+  
+ # Admin menu
+                * ✅  A - Add a Person       
+                * ✅    D - Delete Person     
+                * ✅    S - Search by Name     
+                * ✅    P - Print by Hash     
+                * ✅   T - Print by Tree     
+                * ✅   I - Print Indented    
+                * ❌   W - Write to File      
+                * ❌   U - Usage Statistics  
+                * ✅   L - Log Out           
                 
                 
   *  ✅  userMenu
