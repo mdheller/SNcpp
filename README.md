@@ -1,10 +1,10 @@
 # SNcpp
 
 # About Roshan The Social Network (in C++)
-In  Input & Output
+# Input & Output
   ❌ Write out to the file
   ❌ Make Menu prettier and more structrual  
-  ✅  Admin menu
+ *  ✅  Admin menu
               ************** MENU ************
                 *                            *
                 * ✅  A - Add a Person       *
@@ -20,19 +20,19 @@ In  Input & Output
                 ********************************
                 
                 
-   ✅  userMenu
+  *  ✅  userMenu
     ✅ it will consist of 2 user menus.
       it will have userMenu with (Add friend, send message, read messages, delete friend, set status message)
      * and admin userMenu (change Name, change password, change city, change college);
   
-Main function
+* Main function
   ✅  Take the elements from the hash table, put them in the binary search tree
   ✅  Insert Manager (Inserts in Hash Table and BST)
   ✅  Delete Manger (Deletes from Hash Table and BST)
   ❌ Putting everything together
       
       
-Person Class
+* Person Class
     ❌  Sign up User 
     ❌ add a destructor 
     ❌ delete vectors and arrays
