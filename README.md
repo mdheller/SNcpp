@@ -19,17 +19,26 @@
                 
   # userMenu
     ✅ it will consist of 2 user menus.
-     * userMenu with (Add friend, send message, read messages, delete friend, set status message)
-     * and admin userMenu (change Name, change password, change city, change college);
+     * Add friend
+     * send message 
+     * read messages
+     * delete friend 
+     * set status message
+     
+  # admin 
+     * change Name
+     * change password
+     * change city
+     * change school/college
   
 # Main function
- *  ✅  Take the elements from the hash table, put them in the binary search tree
- *  ✅  Insert Manager (Inserts in Hash Table and BST)
- *  ✅  Delete Manger (Deletes from Hash Table and BST)
- *  ❌ Putting everything together
+     *  ✅  Take the elements from the hash table, put them in the binary search tree
+     *  ✅  Insert Manager (Inserts in Hash Table and BST)
+     *  ✅  Delete Manger (Deletes from Hash Table and BST)
+     *  ❌ Putting everything together
       
       
 # Person Class
-   * ❌  Sign up User 
-   * ❌ add a destructor 
-   * ❌ delete vectors and arrays
+     * ❌  Sign up User 
+     * ❌ add a destructor 
+     * ❌ delete vectors and arrays
