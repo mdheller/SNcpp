@@ -19,6 +19,7 @@
                 
   # userMenu
   (consists of 2 user menus)
+    
      * Add friend
      * send message 
      * read messages
