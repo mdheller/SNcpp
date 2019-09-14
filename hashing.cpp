@@ -1,3 +1,8 @@
+//  person.cpp
+//  Roshan The Social Network
+//  Created by Roshan Lamichhane 2019
+//  Copyright (c) 2019 Roshan Lamichhane. All rights reserved.
+
 #include <iostream>
 #include <cstdlib>
 #include <string>
