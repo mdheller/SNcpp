@@ -18,7 +18,7 @@
                 
                 
   # userMenu
-    ✅ it will consist of 2 user menus.
+  (consists of 2 user menus)
      * Add friend
      * send message 
      * read messages
