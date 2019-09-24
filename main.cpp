@@ -17,7 +17,7 @@ int main(int argc, const char * argv[]) {
     menu.readFile("names.txt");
     int input = 0;
     while(input != 2) {
-        cout << "\n-------------------Welcome to Roshan The Social Network---------------------\n\n\n";
+        cout << "\n------------------------Welcome---to---Roshan---The---Social---Network---------------------\n\n\n";
         string name;
         string password;
         cout << "Username: ";
@@ -31,5 +31,4 @@ int main(int argc, const char * argv[]) {
             menu.adminMenu(menu, password);
     
     }
-    
 }
